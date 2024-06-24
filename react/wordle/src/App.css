@@ -1,0 +1,19 @@
+/* #app[data-theme-mode='dark'] {
+    --backgroud-color: "black";
+    --color: "white"
+}
+
+#app[data-theme-mode='light'] {
+    --backgroud-color: "white";
+    --color: "black"
+} */
+
+
+
+#app {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    width: 100vw;
+    height: 100vh;
+}
